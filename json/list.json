@@ -1,0 +1,165 @@
+{
+    "items":[
+        {
+            "sno":"01",
+            "name": "Rice",
+            "department":"Grains",
+            "qty":"5",
+            "unit":"Kg",
+            "notes":"Basmati Rice"
+        },
+        {
+            "sno":"02",
+            "name": "Wheat",
+            "department":"Grains",
+            "qty":"2",
+            "unit":"Kg",
+            "notes":"XYZ Brand"
+        },
+        {
+            "sno":"03",
+            "name": "Rice Flour",
+            "department":"Flours and Powders",
+            "qty":"2",
+            "unit":"Kg",
+            "notes":"For Appam"
+        },
+        {
+            "sno":"04",
+            "name": "Wheat Flour",
+            "department":"Flours and Powders",
+            "qty":"2",
+            "unit":"Kg",
+            "notes":"Aashirvaad"
+        },
+        {
+            "sno":"05",
+            "name": "Chilly Powder",
+            "department":"Flours and Powders",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"Red chilly"
+        },
+        {
+            "sno":"06",
+            "name": "Turmeric Powder",
+            "department":"Flours and Powders",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"XYZ"
+        },
+        {
+            "sno":"07",
+            "name": "Pepper Powder",
+            "department":"Flours and Powders",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"ABC"
+        },
+        {
+            "sno":"08",
+            "name": "Meat Masala",
+            "department":"Flours and Powders",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"ABC"
+        },
+        {
+            "sno":"09",
+            "name": "Coconut Oil",
+            "department":"Oils",
+            "qty":"1",
+            "unit":"Litre",
+            "notes":"-"
+        },
+        {
+            "sno":"10",
+            "name": "Salt",
+            "department":"Condiments",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"Table salt"
+        },
+        {
+            "sno":"11",
+            "name": "Sugar",
+            "department":"Condiments",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"-"
+        },
+        {
+            "sno":"12",
+            "name": "Milk",
+            "department":"Diary and Eggs",
+            "qty":"500",
+            "unit":"ml",
+            "notes":"Milma"
+        },
+        {
+            "sno":"13",
+            "name": "Egg",
+            "department":"Diary and Eggs",
+            "qty":"10",
+            "unit":"nos",
+            "notes":"Chicken"
+        },
+        {
+            "sno":"14",
+            "name": "Onion",
+            "department":"Vegetables",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"-"
+        },
+        {
+            "sno":"15",
+            "name": "Carrot",
+            "department":"Vegetables",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"-"
+        },
+        {
+            "sno":"16",
+            "name": "Tomato",
+            "department":"Vegetables",
+            "qty":"500",
+            "unit":"gm",
+            "notes":"Small size"
+        },
+        {
+            "sno":"17",
+            "name": "Fish",
+            "department":"Meat and Fish",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"Fresh"
+        },
+        {
+            "sno":"18",
+            "name": "Meat",
+            "department":"Meat and Fish",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"-"
+        },
+        {
+            "sno":"19",
+            "name": "Sanitizer",
+            "department":"Health Care",
+            "qty":"1",
+            "unit":"Bottle",
+            "notes":"Small bottle"
+        }
+        ,
+        {
+            "sno":"20",
+            "name": "Apple",
+            "department":"Fruits",
+            "qty":"1",
+            "unit":"Kg",
+            "notes":"-"
+        }
+    ]
+}

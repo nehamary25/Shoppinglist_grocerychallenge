@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #00af91;
+}
+
+#heading{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+#box{
+    background-color: #ffcc29;
+    border-radius: 15px;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+}
+
+#dropdown{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#dropdown p{
+    font-size: large;
+    font-weight: bold;
+}
+
+#dept{
+    width: auto;
+    display: inline;
+}
